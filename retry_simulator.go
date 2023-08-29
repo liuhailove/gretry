@@ -5,8 +5,8 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/liuhailove/retry/retry"
-	"github.com/liuhailove/retry/retry/backoff"
+	"github.com/liuhailove/gretry/retry"
+	"github.com/liuhailove/gretry/retry/backoff"
 )
 
 // *{@link RetrySimulator} 是一种用于执行重试 + 退避操作的工具。

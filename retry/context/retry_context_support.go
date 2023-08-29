@@ -2,7 +2,7 @@ package context
 
 import (
 	"fmt"
-	"github.com/liuhailove/go-retry/retry"
+	"github.com/liuhailove/gretry/retry"
 )
 
 type RtyContextSupport struct {

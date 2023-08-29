@@ -1,7 +1,7 @@
 package backoff
 
 import (
-	"github.com/liuhailove/go-retry/util"
+	"github.com/liuhailove/gretry/util"
 	"time"
 )
 

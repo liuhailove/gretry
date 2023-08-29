@@ -1,9 +1,9 @@
 package policy
 
 import (
-	"github.com/liuhailove/go-retry/retry"
-	"github.com/liuhailove/go-retry/retry/context"
-	"github.com/liuhailove/go-retry/util"
+	"github.com/liuhailove/gretry/retry"
+	"github.com/liuhailove/gretry/retry/context"
+	"github.com/liuhailove/gretry/util"
 )
 
 var (

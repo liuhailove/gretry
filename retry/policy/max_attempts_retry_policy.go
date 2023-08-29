@@ -1,8 +1,8 @@
 package policy
 
 import (
-	"github.com/liuhailove/go-retry/retry"
-	"github.com/liuhailove/go-retry/retry/context"
+	"github.com/liuhailove/gretry/retry"
+	"github.com/liuhailove/gretry/retry/context"
 )
 
 const (

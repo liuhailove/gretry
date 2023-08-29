@@ -2,9 +2,9 @@ package policy
 
 import (
 	"errors"
-	"github.com/liuhailove/go-retry/retry"
-	"github.com/liuhailove/go-retry/retry/classify"
-	"github.com/liuhailove/go-retry/retry/context"
+	"github.com/liuhailove/gretry/retry"
+	"github.com/liuhailove/gretry/retry/classify"
+	"github.com/liuhailove/gretry/retry/context"
 	"strconv"
 )
 

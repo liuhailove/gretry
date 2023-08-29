@@ -3,9 +3,9 @@ package go_retry
 import (
 	"errors"
 	"fmt"
-	"github.com/liuhailove/go-retry/retry"
-	"github.com/liuhailove/go-retry/retry/classify"
-	"github.com/liuhailove/go-retry/util"
+	"github.com/liuhailove/gretry/retry"
+	"github.com/liuhailove/gretry/retry/classify"
+	"github.com/liuhailove/gretry/util"
 	"testing"
 	"time"
 )

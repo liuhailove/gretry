@@ -1,7 +1,7 @@
 package backoff
 
 import (
-	"github.com/liuhailove/go-retry/retry"
+	"github.com/liuhailove/gretry/retry"
 	"strconv"
 )
 

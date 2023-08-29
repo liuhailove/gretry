@@ -1,7 +1,7 @@
 package classify
 
 import (
-	"github.com/liuhailove/go-retry/logging"
+	"github.com/liuhailove/gretry/logging"
 	"regexp"
 	"strings"
 )

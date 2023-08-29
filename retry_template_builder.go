@@ -3,10 +3,10 @@ package go_retry
 import (
 	"errors"
 
-	"github.com/liuhailove/retry/retry"
-	"github.com/liuhailove/retry/retry/backoff"
-	"github.com/liuhailove/retry/retry/classify"
-	"github.com/liuhailove/retry/retry/policy"
+	"github.com/liuhailove/gretry/retry"
+	"github.com/liuhailove/gretry/retry/backoff"
+	"github.com/liuhailove/gretry/retry/classify"
+	"github.com/liuhailove/gretry/retry/policy"
 )
 
 // * Fluent API to configure new instance of RetryTemplate. For detailed description of each

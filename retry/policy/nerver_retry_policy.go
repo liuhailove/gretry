@@ -1,8 +1,8 @@
 package policy
 
 import (
-	"github.com/liuhailove/go-retry/retry"
-	"github.com/liuhailove/go-retry/retry/context"
+	"github.com/liuhailove/gretry/retry"
+	"github.com/liuhailove/gretry/retry/context"
 )
 
 // NeverRetryPolicy 允许第一次尝试，不允许之后的重试

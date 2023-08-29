@@ -1,6 +1,6 @@
 package policy
 
-import "github.com/liuhailove/go-retry/retry"
+import "github.com/liuhailove/gretry/retry"
 
 // AlwaysRetryPolicy 一种无穷重试策略
 type AlwaysRetryPolicy struct {

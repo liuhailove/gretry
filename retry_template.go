@@ -2,11 +2,11 @@ package go_retry
 
 import (
 	"errors"
-	"github.com/liuhailove/retry/logging"
-	"github.com/liuhailove/retry/retry"
-	"github.com/liuhailove/retry/retry/backoff"
-	"github.com/liuhailove/retry/retry/policy"
-	"github.com/liuhailove/retry/util"
+	"github.com/liuhailove/gretry/logging"
+	"github.com/liuhailove/gretry/retry"
+	"github.com/liuhailove/gretry/retry/backoff"
+	"github.com/liuhailove/gretry/retry/policy"
+	"github.com/liuhailove/gretry/util"
 )
 
 const (

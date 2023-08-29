@@ -1,5 +1,7 @@
 package policy
 
+import "github.com/liuhailove/gretry/retry"
+
 // RtyContextCache 上下文重试cache
 type RtyContextCache interface {
 

@@ -2,7 +2,7 @@ package util
 
 import (
 	"errors"
-	"github.com/liuhailove/go-retry/logging"
+	"github.com/liuhailove/gretry/logging"
 	"reflect"
 )
 
